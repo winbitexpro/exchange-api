@@ -1,7 +1,7 @@
 
 
 About API
-It provides stable and secure APIs. You can get the latest market data and trade via the APIs. Your trade-bot can run your algorithms to arbitrage or hedge. Now there are hundreds of algorithms in Exchange working safely.
+It provides stable and secure APIs. You can get the latest market data and trade via the APIs.
 Request Process
 Root URL
 --------------ENTER URL HERE ------------
